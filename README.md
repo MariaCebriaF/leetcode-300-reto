@@ -33,8 +33,8 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 |-----|-----------------------------|--------|
 | 1   | Valid Parentheses           | ✅     |
 | 2   | Longest Common Prefix       | ✅     |
-| 3   | Merge Two Sorted Lists      | ⏳     |
-
+| 3   | Merge Two Sorted Lists      | ✅     |
+| 4   | Remove Duplicates from Sorted Array | ⏳     |
 ### 🟡 **MEDIUM**
  ⏳  En construcción...
 
