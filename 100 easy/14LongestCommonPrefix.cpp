@@ -1,3 +1,8 @@
+/* 📌 Día 1: Longest Common Prefix
+🔗 Enunciado LeetCode: https://leetcode.com/problems/longest-common-prefix/description/
+🎥 Explicación en YouTube: [Próximamente]
+💻 Lenguaje: C++ */
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -6,7 +11,7 @@ using namespace std;
 
 string longestCommonPrefix(vector<string>& strs) {
     // Caso base: comprobamos si el vector que nos dan está vacío
-    if (strs.empty()) return "";
+    if (strs.empty()) return ""; //1==true si esta vacia y 0==false sino lo está 
 
     // Inicializamos el resultado asumiendo que todo el primer string es el prefijo común
     string result = strs[0]; //flower 
@@ -14,7 +19,7 @@ string longestCommonPrefix(vector<string>& strs) {
     // Recorremos los strings a partir del segundo elemento del vector 
     for (int i = 1; i < strs.size(); ++i) {
 
-        //fly==flow 
+        // racecar=""
         // Mientras el string actual NO empiece por el prefijo actual (result),
         // lo recortamos por el final hasta que coincida o se quede vacío
         //flow==flower 

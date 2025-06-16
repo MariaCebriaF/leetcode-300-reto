@@ -1,3 +1,8 @@
+/* 📌 Día 3: Merge Two Sorted Lists
+🔗 Enunciado LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
+🎥 Explicación en YouTube: [Próximamente]
+💻 Lenguaje: C++ */
+
 #include <iostream>
 using namespace std;
 
