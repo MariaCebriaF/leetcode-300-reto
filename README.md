@@ -34,7 +34,11 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 | 1   | Valid Parentheses           | ✅     |
 | 2   | Longest Common Prefix       | ✅     |
 | 3   | Merge Two Sorted Lists      | ✅     |
-| 4   | Remove Duplicates from Sorted Array | ⏳     |
+| 4   | Remove Duplicates from Sorted Array | ✅     |
+| 5   | Remove Element.cpp          |  ✅    |
+| 6   | Find the Index of the First Ocurrence in a String|  ✅    |
+| 7   | Search Insert Position      |  ⏳    |
+
 ### 🟡 **MEDIUM**
  ⏳  En construcción...
 
@@ -71,4 +75,5 @@ Este repositorio me va a ayudar a:
 Si te interesa este reto o quieres colaborar, puedes seguir mi progreso o contactar conmigo aquí:
 
 - 🔗 [LinkedIn – María Fátima Cebriá Fernández](https://www.linkedin.com/in/maría-fátima-cebriá-fernández-2219a632a/)
-- 📺 YouTube – *Enlace próximamente...*
+- 📺 YouTube – https://www.youtube.com/@MariaCebriaF
+
