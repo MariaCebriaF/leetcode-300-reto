@@ -1,4 +1,4 @@
-# 🧠 Reto LeetCode: 300 Problemas
+ # 🧠 Reto LeetCode: 300 Problemas
 
 ¡Hola! Este repositorio forma parte de mi reto personal para resolver **300 problemas en LeetCode**, organizados en tres niveles de dificultad:
 
@@ -13,10 +13,13 @@ a hacer mejores comentarios en mi código para colaborar en el futuro con más p
 
 ## 📁 La estructura de carpetas será la siguiente
 
+```
 leetcode-300-reto/
 ├── 100 easy/
 ├── 100 medium/
 └── 100 hard/
+```
+
 Cada carpeta contiene:
 - Archivos `.cpp` con las soluciones en C++ 
 - Nombre del archivo con el formato: `<número><NombreDelProblema>.cpp`
@@ -37,8 +40,11 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 | 4   | Remove Duplicates from Sorted Array | ✅     |
 | 5   | Remove Element.cpp          |  ✅    |
 | 6   | Find the Index of the First Ocurrence in a String|  ✅    |
-| 7   | Search Insert Position      |  ⏳    |
-
+| 7   | Search Insert Position      |  ✅      |
+| 8   | Lenght of Last Word         |  ✅      |
+| 9   | Plus One                    |  ✅      |
+| 10  | Add Binary                  |  ⏳    |
+| 11  | Sqrt(x)                     |  ⏳    |
 ### 🟡 **MEDIUM**
  ⏳  En construcción...
 
