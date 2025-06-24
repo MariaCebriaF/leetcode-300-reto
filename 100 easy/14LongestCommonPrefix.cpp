@@ -3,29 +3,38 @@
 🎥 Explicación en YouTube: [Próximamente]
 💻 Lenguaje: C++ */
 
+<<<<<<< Updated upstream
 #include <iostream>
 #include <string>
+=======
+#include <iostream> //cout<< cin>>
+#include <string> //find()
+>>>>>>> Stashed changes
 #include <vector>
 // #include <bits/stdc++.h> libreria super potente con muchísimas funciones, muy usada en la programación competitiva
-using namespace std; 
-
+using namespace std;  
+ 
 string longestCommonPrefix(vector<string>& strs) {
     // Caso base: comprobamos si el vector que nos dan está vacío
     if (strs.empty()) return ""; //1==true si esta vacia y 0==false sino lo está 
 
     // Inicializamos el resultado asumiendo que todo el primer string es el prefijo común
-    string result = strs[0]; //flower 
+    string result = strs[0]; //dog 
 
     // Recorremos los strings a partir del segundo elemento del vector 
-    for (int i = 1; i < strs.size(); ++i) {
+    for (int i = 1; i < strs.size(); ++i) { 
 
+<<<<<<< Updated upstream
         // racecar=""
         // Mientras el string actual NO empiece por el prefijo actual (result),
         // lo recortamos por el final hasta que coincida o se quede vacío
         //flow==flower 
+=======
+        //find()-> 0 
+>>>>>>> Stashed changes
         while (strs[i].find(result) != 0) { //si devuelve cero es porque encuentra la substring al principio 
             // Eliminamos el último carácter del resultado (result)
-            result.pop_back(); 
+            result.pop_back();   
 
             // Si se ha vaciado completamente, significa que no hay prefijo común
             if (result.empty()) return "";
@@ -35,6 +44,7 @@ string longestCommonPrefix(vector<string>& strs) {
     // Cuando terminamos el bucle, 'result' contiene el prefijo común más largo o se queda vacío 
     return result;
 }
+//Lo que imagino que usaria LeetCode 
 int main() {
     vector<string> ejemplo1 = {"flower", "flow", "flight"};
     vector<string> ejemplo2 = {"dog", "racecar", "car"};
@@ -43,3 +53,9 @@ int main() {
     cout << "Ejemplo 2: " << longestCommonPrefix(ejemplo2) << endl; 
     return 0;
 }
+
+
+/*string::npos == 18446744073709551615 
+if (pos != string::npos) si que hay una posición 
+
+*/
