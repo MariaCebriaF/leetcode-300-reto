@@ -43,8 +43,14 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 | 7   | Search Insert Position      |  ✅      |
 | 8   | Lenght of Last Word         |  ✅      |
 | 9   | Plus One                    |  ✅      |
-| 10  | Add Binary                  |  ⏳    |
-| 11  | Sqrt(x)                     |  ⏳    |
+| 10  | Add Binary                  |  ✅     |
+| 11  | Sqrt(x)                     |  ✅    |
+| 12  | Climbing Stairs             |  ✅    |
+| 13  | Remove Duplicates from Sortes List   |  ⏳    |
+| 14  | Merge Sortes Array          |  ⏳    |
+| 15  | Binary Tree Inorder Traversal  |  ⏳    |
+
+
 ### 🟡 **MEDIUM**
  ⏳  En construcción...
 
