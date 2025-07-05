@@ -32,23 +32,36 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 ## 🚀 Progreso
 ### 🟢 **EASY** 
 
-| Día | Problema                    | Estado |
-|-----|-----------------------------|--------|
-| 1   | Valid Parentheses           | ✅     |
-| 2   | Longest Common Prefix       | ✅     |
-| 3   | Merge Two Sorted Lists      | ✅     |
-| 4   | Remove Duplicates from Sorted Array | ✅     |
-| 5   | Remove Element.cpp          |  ✅    |
-| 6   | Find the Index of the First Ocurrence in a String|  ✅    |
-| 7   | Search Insert Position      |  ✅      |
-| 8   | Lenght of Last Word         |  ✅      |
-| 9   | Plus One                    |  ✅      |
-| 10  | Add Binary                  |  ✅     |
-| 11  | Sqrt(x)                     |  ✅    |
-| 12  | Climbing Stairs             |  ✅    |
-| 13  | Remove Duplicates from Sortes List   |  ⏳    |
-| 14  | Merge Sortes Array          |  ⏳    |
-| 15  | Binary Tree Inorder Traversal  |  ⏳    |
+| Día | Problema                                       | #   | Tema(s)                     | Estado |
+|-----|------------------------------------------------|-----|-----------------------------|--------|
+| 1   | Valid Parentheses                              | 20  | Stack, Strings              | ✅     |
+| 2   | Longest Common Prefix                          | 14  | Strings                     | ✅     |
+| 3   | Merge Two Sorted Lists                         | 21  | Linked List, Recursion      | ✅     |
+| 4   | Remove Duplicates from Sorted Array            | 26  | Arrays, Two Pointers        | ✅     |
+| 5   | Remove Element                                 | 27  | Arrays, Two Pointers        | ✅     |
+| 6   | Find the Index of the First Occurrence in a String | 28  | Strings, KMP (opcional)     |    ✅     |
+| 7   | Search Insert Position                         | 35  | Binary Search, Arrays       | ✅     |
+| 8   | Length of Last Word                            | 58  | Strings                     | ✅     |
+| 9   | Plus One                                       | 66  | Arrays, Math                | ✅     |
+| 10  | Add Binary                                     | 67  | Strings, Binary             | ✅     |
+| 11  | Sqrt(x)                                        | 69  | Math, Binary Search         | ✅     |
+| 12  | Climbing Stairs                                | 70  | DP, Fibonacci               | ✅     |
+| 13  | Remove Duplicates from Sorted List             | 83  | Linked List                 | ✅     |
+| 14  | Merge Sorted Array                             | 88  | Arrays, Two Pointers        | ✅     |
+| 15  | Binary Tree Inorder Traversal                  | 94  | Tree, DFS, Stack            | ✅     |
+| 16  | Same Tree                                      | 100 | Tree, DFS                   | ✅     |
+| 17  | Symmetric Tree                                 | 101 | Tree, DFS, BFS              | ✅     |
+| 18  | Maximum Depth of Binary Tree                   | 104 | Tree, DFS, Recursion        | ✅     |
+| 19  | Convert Sorted Array to Binary Search Tree     | 108 | Tree, DFS, Divide & Conquer | ✅     |
+| 20  | Balanced Binary Tree                           | 110 | Tree, DFS                   | ✅     |
+| 21  | Minimum Depth of Binary Tree                   | 111 | Tree, DFS, BFS              | ✅     |
+| 22  | Path Sum                                       | 112 | Tree, DFS, Recursion        | ✅     |
+| 23  | Binary Tree Inorder Traversal                  | 94  | Tree, DFS, Stack            | ⏳     |
+
+
+
+
+
 
 
 ### 🟡 **MEDIUM**
