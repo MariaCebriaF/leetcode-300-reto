@@ -56,7 +56,7 @@ Espero que te sean de ayuda y motivación para seguir mejorando.
 | 20  | Balanced Binary Tree                           | 110 | Tree, DFS                   | ✅     |
 | 21  | Minimum Depth of Binary Tree                   | 111 | Tree, DFS, BFS              | ✅     |
 | 22  | Path Sum                                       | 112 | Tree, DFS, Recursion        | ✅     |
-| 23  | Binary Tree Inorder Traversal                  | 94  | Tree, DFS, Stack            | ⏳     |
+| 23  | Pascal's Triangle                              | 118 | Maths                       | ⏳     |
 
 
 
