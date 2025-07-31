@@ -24,9 +24,6 @@ Cada carpeta contiene:
 - Archivos `.cpp` con las soluciones en C++ 
 - Nombre del archivo con el formato: `<número><NombreDelProblema>.cpp`
 
-📌 *Además*, en la cabecera de cada código encontrarás un **enlace a un vídeo explicativo en YouTube**.  
-Prometo que mis explicaciones irán mejorando poco a poco 😅  
-Espero que te sean de ayuda y motivación para seguir mejorando.
 ---
 
 ## 🚀 Progreso
