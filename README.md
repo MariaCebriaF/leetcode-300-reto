@@ -54,6 +54,17 @@ Cada carpeta contiene:
 | 21  | Minimum Depth of Binary Tree                   | 111 | Tree, DFS, BFS              | ✅     |
 | 22  | Path Sum                                       | 112 | Tree, DFS, Recursion        | ✅     |
 | 23  | Pascal's Triangle                              | 118 | Maths                       | ⏳     |
+| 24  | Pascal's Triangle 2                            | 119 | Maths                       | ⏳     |
+| 25  | Best Time to Buy and Sell Stock                | 121 | Arrays, math                | ⏳     |
+| 26  | Valid Palindrome                               | 125 | String                      | ⏳     |
+| 27  | Single Number                                  | 136 | Maths                       | ⏳     |
+| 28  | Linked List  Cycle                             | 141 | Linked List                 | ⏳     |
+| 29  | Mayority Element                               | 169 | Maths                       | ⏳     |
+| 30  | Happy Number                                   | 202 | Linked List                 | ⏳     |
+| 31  | Constains Duplicate                            | 217 | Maths                       | ⏳     |
+
+
+
 
 
 
